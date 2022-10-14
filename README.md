@@ -1,1 +1,9 @@
-# maximum-depth-of-binary-tree-cpp-leetcode
+# Leet Code
+## Problem 104: Maximum Depth of Binary Tree
+
+Given the root of a binary tree, return its maximum depth.
+
+A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+## Language
+C++
